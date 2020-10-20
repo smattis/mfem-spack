@@ -4,5 +4,5 @@ MAINTAINER Steven Mattis
 
 USER root
 
-RUN spack install mfem googletest
+RUN spack install mfem googletest cmake
 
